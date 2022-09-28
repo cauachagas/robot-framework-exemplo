@@ -1,0 +1,6 @@
+{    
+    "workbench.iconTheme": "material-icon-theme",
+    "isGitignoreExtActive": true,
+    "files.autoSave": "onFocusChange",
+    "python.terminal.activateEnvironment": true,
+}
