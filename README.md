@@ -31,11 +31,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Python](https://www.python.org/)
 - [Robot Framework](https://robotframework.org/)
+- [ChromeDriver](https://chromedriver.chromium.org/)
 
 
 ## :white_check_mark: Pré requisitos ##
 
-Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados em sua maquina.
+Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [Python](https://www.python.org/) instalados em sua maquina. Para utilização de automação web com Selenium no navegador Chrome, será preciso do [ChromeDriver](https://chromedriver.chromium.org/downloads) no [PATH](https://www.linkedin.com/pulse/como-instalar-o-chromedriver-windows-10-jo%C3%A3o-gross/?originalSubdomain=pt) 
 
 
 ## :checkered_flag: Começando ##
